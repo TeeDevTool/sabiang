@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1243-134124-124314-34123",
+    "mainCategory": "Main category1",
+    "subCategory": "Sub category1",
+    "expireDate": "2023-08-30",
+    "tag": "Tag55",
+    "amount": 5
+  },
+  {
+    "id": "1243-134124-124314-34121",
+    "mainCategory": "Main category2",
+    "subCategory": "Sub category2",
+    "expireDate": "2023-09-01",
+    "tag": "Tag55",
+    "amount": 2
+  },
+  {
+    "id": "1243-134124-124314-34126",
+    "mainCategory": "Main category3",
+    "subCategory": "Sub category3",
+    "expireDate": "2023-09-12",
+    "tag": "Tag55",
+    "amount": 1
+  },
+  {
+    "id": "1243-134124-124314-34127",
+    "mainCategory": "Main category4",
+    "subCategory": "Sub category4",
+    "expireDate": "2023-10-17",
+    "tag": "Tag55",
+    "amount": 2
+  },
+  {
+    "id": "1243-134124-124314-34129",
+    "mainCategory": "Main category5",
+    "subCategory": "Sub category5",
+    "expireDate": "2023-11-23",
+    "tag": "Tag55",
+    "amount": 2
+  }
+]
